@@ -63,4 +63,3 @@ gulp.task('test', function(done) {
   }
   karma(options, done);
 });
-
